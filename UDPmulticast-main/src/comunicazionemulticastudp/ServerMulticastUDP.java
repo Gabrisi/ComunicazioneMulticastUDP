@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Monica Ciuchetti
+ * @author Luca Brunori Silvio Oddo Gabriele Silla
  */
 public class ServerMulticastUDP {
     //colore del prompt del Server
