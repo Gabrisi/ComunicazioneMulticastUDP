@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"comunicazionemulticastudp","l":"ClientMulticastUDP"},{"p":"comunicazionemulticastudp","l":"ServerMulticastUDP"}];updateSearchResults();
